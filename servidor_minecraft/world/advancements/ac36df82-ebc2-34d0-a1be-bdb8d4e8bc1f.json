@@ -7,13 +7,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:frozen_river": "2025-01-31 01:51:52 +0000",
       "minecraft:birch_forest": "2025-01-30 23:05:18 +0000",
       "minecraft:beach": "2025-01-30 22:58:57 +0000",
       "minecraft:dark_forest": "2025-01-30 23:17:49 +0000",
       "minecraft:river": "2025-01-30 23:03:20 +0000",
       "minecraft:stony_shore": "2025-01-30 23:15:31 +0000",
+      "minecraft:snowy_plains": "2025-01-31 01:51:02 +0000",
+      "minecraft:cold_ocean": "2025-01-31 01:59:05 +0000",
       "minecraft:forest": "2025-01-30 22:58:49 +0000",
+      "minecraft:frozen_ocean": "2025-01-31 01:57:23 +0000",
       "minecraft:ocean": "2025-01-30 22:46:59 +0000",
+      "minecraft:snowy_beach": "2025-01-31 01:55:47 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-30 21:09:42 +0000",
       "minecraft:plains": "2025-01-30 23:25:04 +0000"
     },
@@ -1366,6 +1371,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-01-31 01:28:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-01-31 02:01:44 +0000"
     },
     "done": true
   },
