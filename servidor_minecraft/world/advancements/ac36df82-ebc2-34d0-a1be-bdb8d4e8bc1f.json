@@ -168,6 +168,7 @@
       "cooked_porkchop": "2025-01-31 20:11:56 +0000",
       "cooked_mutton": "2025-01-30 22:42:49 +0000",
       "cooked_beef": "2025-01-30 23:05:56 +0000",
+      "cooked_cod": "2025-01-31 20:37:15 +0000",
       "golden_apple": "2025-01-30 22:41:58 +0000",
       "bread": "2025-01-31 01:26:21 +0000"
     },
@@ -548,6 +549,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-31 01:25:07 +0000",
+      "minecraft:spider": "2025-01-31 20:44:39 +0000",
       "minecraft:creeper": "2025-01-31 01:28:49 +0000",
       "minecraft:phantom": "2025-01-30 22:57:45 +0000",
       "minecraft:enderman": "2025-01-31 02:19:54 +0000",
@@ -1428,6 +1430,54 @@
   "travelersbackpack:recipes/misc/cow": {
     "criteria": {
       "has_milk_bucket": "2025-01-31 02:37:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-31 20:47:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-31 20:49:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-31 20:47:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-01-31 20:36:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-01-31 20:36:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-01-31 20:36:00 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-31 20:47:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_the_recipe": "2025-01-31 20:37:11 +0000"
     },
     "done": true
   },
