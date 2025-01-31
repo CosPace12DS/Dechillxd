@@ -1,504 +1,217 @@
-[30Jan2025 23:47:30.716] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[30Jan2025 23:47:30.722] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[30Jan2025 23:47:31.031] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[30Jan2025 23:47:31.103] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Dechillxd/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[30Jan2025 23:47:31.466] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Dechillxd/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[30Jan2025 23:47:31.469] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Dechillxd/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[30Jan2025 23:47:31.472] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Dechillxd/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[30Jan2025 23:47:31.477] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Dechillxd/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[30Jan2025 23:47:31.664] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 1 dependencies adding them to mods collection
-[30Jan2025 23:47:33.795] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[30Jan2025 23:47:33.825] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[30Jan2025 23:47:44.470] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[30Jan2025 23:47:44.471] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[30Jan2025 23:47:45.702] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/Dechillxd/servidor_minecraft/config/000.jar Configuration.toml is not correct. Correcting
-[30Jan2025 23:47:45.705] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Change Spawn Entities - Global was corrected from null to its default, SimpleCommentedConfig:{}. 
-[30Jan2025 23:47:45.706] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Change Spawn Entities - Global.Change Entities Minimum Ticks Spawn was corrected from null to its default, 36000.0. 
-[30Jan2025 23:47:45.707] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Change Spawn Entities - Global.Change Entities Maximum Ticks Spawn was corrected from null to its default, 108000.0. 
-[30Jan2025 23:47:45.709] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Change Spawn Entities - Global.Min Despawn Probability was corrected from null to its default, 1.0. 
-[30Jan2025 23:47:45.710] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Change Spawn Entities - Global.Max Despawn Probability was corrected from null to its default, 3.0. 
-[30Jan2025 23:47:45.711] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Change Spawn Entities - Global.Enable Villager Stalker? was corrected from null to its default, true. 
-[30Jan2025 23:47:45.713] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Change Villager Stalker Spawn was corrected from null to its default, SimpleCommentedConfig:{}. 
-[30Jan2025 23:47:45.714] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Change Villager Stalker Spawn.Villager Stalker Minimum Spawn was corrected from null to its default, 1.0. 
-[30Jan2025 23:47:45.714] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Change Villager Stalker Spawn.Villager Stalker Maximum Spawn was corrected from null to its default, 4.0. 
-[30Jan2025 23:47:45.715] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Change Villager Stalker Spawn.Villager Stalker Minimum Ticks Despawn was corrected from null to its default, 400.0. 
-[30Jan2025 23:47:45.716] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Change Villager Stalker Spawn.Villager Stalker  Maximum Ticks Despawn was corrected from null to its default, 1000.0. 
-[30Jan2025 23:47:45.718] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Chicken Spawn Probablity was corrected from null to its default, SimpleCommentedConfig:{}. 
-[30Jan2025 23:47:45.718] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Chicken Spawn Probablity.Chicken Minimum Spawn was corrected from null to its default, 1.0. 
-[30Jan2025 23:47:45.719] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Chicken Spawn Probablity.Chicken Maximum Spawn was corrected from null to its default, 30.0. 
-[30Jan2025 23:47:45.719] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Chicken Spawn Probablity.Chicken Minimum Ticks Despawn was corrected from null to its default, 600.0. 
-[30Jan2025 23:47:45.720] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Chicken Spawn Probablity.Chicken Maximum Ticks Despawn was corrected from null to its default, 900.0. 
-[30Jan2025 23:47:45.721] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Chicken Spawn Probablity.Enable Chicken Spawn? was corrected from null to its default, true. 
-[30Jan2025 23:47:45.723] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Change Global Spawn was corrected from null to its default, SimpleCommentedConfig:{}. 
-[30Jan2025 23:47:45.723] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Change Global Spawn.Minimum Ticks Spawn was corrected from null to its default, 40000.0. 
-[30Jan2025 23:47:45.724] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Change Global Spawn.Maximum Ticks Spawn was corrected from null to its default, 108000.0. 
-[30Jan2025 23:47:45.726] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Flying Villagers Spawn was corrected from null to its default, SimpleCommentedConfig:{}. 
-[30Jan2025 23:47:45.727] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Flying Villagers Spawn.Flying Villagers Minimum Spawn was corrected from null to its default, 1.0. 
-[30Jan2025 23:47:45.728] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Flying Villagers Spawn.Flying Villagers Maximum Spawn was corrected from null to its default, 3.0. 
-[30Jan2025 23:47:45.729] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Flying Villagers Spawn.Flying Villagers Minimum Ticks Despawn was corrected from null to its default, 1000.0. 
-[30Jan2025 23:47:45.730] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Flying Villagers Spawn.Flying Villagers Maximum Ticks Despawn was corrected from null to its default, 1600.0. 
-[30Jan2025 23:47:45.733] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Stalker Cow and Chicken Spawn was corrected from null to its default, SimpleCommentedConfig:{}. 
-[30Jan2025 23:47:45.734] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Stalker Cow and Chicken Spawn.Stalker Cow Minimum Spawn was corrected from null to its default, 1.0. 
-[30Jan2025 23:47:45.734] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Stalker Cow and Chicken Spawn.Stalker Cow Maximum Spawn was corrected from null to its default, 4.0. 
-[30Jan2025 23:47:45.735] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Stalker Cow and Chicken Spawn.Stalker Chicken Minimum Spawn was corrected from null to its default, 1.0. 
-[30Jan2025 23:47:45.736] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Stalker Cow and Chicken Spawn.Stalker Chicken Maximum Spawn was corrected from null to its default, 4.0. 
-[30Jan2025 23:47:45.736] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Stalker Cow and Chicken Spawn.Enable Chicken and Cow Spawn? was corrected from null to its default, true. 
-[30Jan2025 23:47:45.738] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Villagers Rain was corrected from null to its default, SimpleCommentedConfig:{}. 
-[30Jan2025 23:47:45.738] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Villagers Rain.Rain Villagers Minimum Ticks Spawn was corrected from null to its default, 1.0. 
-[30Jan2025 23:47:45.739] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Villagers Rain.Rain Villagers Maximum Ticks Spawn was corrected from null to its default, 20000.0. 
-[30Jan2025 23:47:45.742] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Rate Balloon and 000 - Global was corrected from null to its default, SimpleCommentedConfig:{}. 
-[30Jan2025 23:47:45.743] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Rate Balloon and 000 - Global.Minimum Ticks Spawn was corrected from null to its default, 36000.0. 
-[30Jan2025 23:47:45.744] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Rate Balloon and 000 - Global.Maximum Ticks Spawn was corrected from null to its default, 64000.0. 
-[30Jan2025 23:47:45.745] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Rate Balloon and 000 - Global.Enable 000 and 000 Hostile? was corrected from null to its default, true. 
-[30Jan2025 23:47:45.748] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Night Global was corrected from null to its default, SimpleCommentedConfig:{}. 
-[30Jan2025 23:47:45.748] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Night Global.Enable Night randomly? was corrected from null to its default, true. 
-[30Jan2025 23:47:45.749] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Night Global.Randomly Night Min Ticks was corrected from null to its default, 6000.0. 
-[30Jan2025 23:47:45.750] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Night Global.Randomly Night Max Ticks was corrected from null to its default, 48000.0. 
-[30Jan2025 23:47:45.753] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Smile Block was corrected from null to its default, SimpleCommentedConfig:{}. 
-[30Jan2025 23:47:45.754] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Smile Block.Enable Smile Block Spawn was corrected from null to its default, true. 
-[30Jan2025 23:47:45.758] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Torches Despawn was corrected from null to its default, SimpleCommentedConfig:{}. 
-[30Jan2025 23:47:45.759] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Torches Despawn.Enable Torches Randomly Despawn? was corrected from null to its default, true. 
-[30Jan2025 23:47:45.761] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Torches Despawn.Random Torch Despawn Probability was corrected from null to its default, 0.16. 
-[30Jan2025 23:47:45.762] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Torches Despawn.Start despawn from (ticks) was corrected from null to its default, 1200.0. 
-[30Jan2025 23:47:45.764] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Torches Despawn.End spawn chance from (ticks) was corrected from null to its default, 6000.0. 
-[30Jan2025 23:47:45.798] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Sounds Global was corrected from null to its default, SimpleCommentedConfig:{}. 
-[30Jan2025 23:47:45.799] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Sounds Global.Random Sounds Min Probability was corrected from null to its default, 1.0. 
-[30Jan2025 23:47:45.799] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Sounds Global.Random Sounds Max Probability was corrected from null to its default, 180.0. 
-[30Jan2025 23:47:45.799] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Sounds Global.Enable Mod Sounds? was corrected from null to its default, true. 
-[30Jan2025 23:47:45.800] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Sounds Global.Sounds 1: How often will the sounds be heard?  was corrected from null to its default, 0.004. 
-[30Jan2025 23:47:45.800] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Sounds Global.Sounds 2: How often will the sounds be heard?  was corrected from null to its default, 0.004. 
-[30Jan2025 23:47:45.803] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Sounds Global.Sounds 3: How often will the sounds be heard?  was corrected from null to its default, 0.007. 
-[30Jan2025 23:47:45.803] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Sounds Global.Enable Entities Spawn in Villages? was corrected from null to its default, true. 
-[30Jan2025 23:47:45.806] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Player goes to bed was corrected from null to its default, SimpleCommentedConfig:{}. 
-[30Jan2025 23:47:45.808] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Player goes to bed.Activate Spawn Chicken? was corrected from null to its default, true. 
-[30Jan2025 23:47:45.808] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Player goes to bed.Max Chicken Bed Spawn Rate was corrected from null to its default, 300.0. 
-[30Jan2025 23:47:45.809] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Player goes to bed.Min Chicken Bed Spawn Rate was corrected from null to its default, 1.0. 
-[30Jan2025 23:47:45.812] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Door and Glass was corrected from null to its default, SimpleCommentedConfig:{}. 
-[30Jan2025 23:47:45.813] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Door and Glass.Enable if Player Open the Door? was corrected from null to its default, true. 
-[30Jan2025 23:47:45.816] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Door and Glass.Enable if put a glass block was corrected from null to its default, true. 
-[30Jan2025 23:47:45.816] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Door and Glass.Enable Entity Open the Door? was corrected from null to its default, 80.0. 
-[30Jan2025 23:47:45.817] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Door and Glass.Enable Entity Close the Door? was corrected from null to its default, 80.0. 
-[30Jan2025 23:47:45.818] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Door and Glass.Enable Entity can break glass? was corrected from null to its default, 55.0. 
-[30Jan2025 23:47:45.818] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Door and Glass.Probability Break Glass Block when player is nearby was corrected from null to its default, true. 
-[30Jan2025 23:47:45.818] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Door and Glass.Probability Entity break glass around the player was corrected from null to its default, 3.0. 
-[30Jan2025 23:47:45.818] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Door and Glass.Break Glass Blocks Distance was corrected from null to its default, -10.0. 
-[30Jan2025 23:47:45.819] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Door and Glass.Min Probability Break Glass Block was corrected from null to its default, 24000.0. 
-[30Jan2025 23:47:45.819] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Door and Glass.Max Probability Break Glass Block was corrected from null to its default, 64000.0. 
-[30Jan2025 23:47:45.837] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Eye Entity Global was corrected from null to its default, SimpleCommentedConfig:{}. 
-[30Jan2025 23:47:45.839] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Eye Entity Global.Spawn Eye? was corrected from null to its default, true. 
-[30Jan2025 23:47:45.841] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Eye Entity Global.Spawn Eye Min Probability was corrected from null to its default, 24000.0. 
-[30Jan2025 23:47:45.849] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Eye Entity Global.Spawn Eye Max Probability was corrected from null to its default, 64000.0. 
-[30Jan2025 23:47:45.850] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Eye Entity Global.Spawn Eye Structure was corrected from null to its default, true. 
-[30Jan2025 23:47:45.850] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Eye Entity Global.Change Max Probability Spawn  was corrected from null to its default, 4.0. 
-[30Jan2025 23:47:45.851] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Eye Entity Global.Change Despawn was corrected from null to its default, 150.0. 
-[30Jan2025 23:47:45.856] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Balloon was corrected from null to its default, SimpleCommentedConfig:{}. 
-[30Jan2025 23:47:45.858] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Balloon.Explode Balloon Probability was corrected from null to its default, 80.0. 
-[30Jan2025 23:47:45.859] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Balloon.Balloon Structure Probability was corrected from null to its default, 2.0. 
-[30Jan2025 23:47:45.860] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Balloon.000 Cross Probability was corrected from null to its default, 3.0. 
-[30Jan2025 23:47:45.860] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Balloon.Normal Cross Probability was corrected from null to its default, 3.0. 
-[30Jan2025 23:47:45.861] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Balloon.Game Crash? was corrected from null to its default, true. 
-[30Jan2025 23:47:45.862] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Balloon.Enable Balloon Spawn? was corrected from null to its default, true. 
-[30Jan2025 23:47:45.873] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Eye Block was corrected from null to its default, SimpleCommentedConfig:{}. 
-[30Jan2025 23:47:45.873] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Eye Block.Probability Eye Block Spawn was corrected from null to its default, 100.0. 
-[30Jan2025 23:47:45.874] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Eye Block.Enable Eye Block Touch? was corrected from null to its default, true. 
-[30Jan2025 23:47:45.874] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Eye Block.Max Spawn Maze Probability was corrected from null to its default, 30.0. 
-[30Jan2025 23:47:45.874] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Eye Block.Enable Eye Block? was corrected from null to its default, true. 
-[30Jan2025 23:47:45.877] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Maze was corrected from null to its default, SimpleCommentedConfig:{}. 
-[30Jan2025 23:47:45.881] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Maze.Enable Fog was corrected from null to its default, true. 
-[30Jan2025 23:47:45.881] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Maze.Enable Effects was corrected from null to its default, true. 
-[30Jan2025 23:47:45.881] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Maze.Enable Maze by default was corrected from null to its default, true. 
-[30Jan2025 23:47:45.882] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Maze.Enable Adaptive Maze was corrected from null to its default, false. 
-[30Jan2025 23:47:45.882] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Maze.Enable Maze Spawn? was corrected from null to its default, true. 
-[30Jan2025 23:47:45.882] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Maze.Blindness was corrected from null to its default, true. 
-[30Jan2025 23:47:45.883] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Maze.Darkness was corrected from null to its default, true. 
-[30Jan2025 23:47:45.883] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Maze.Slowness was corrected from null to its default, true. 
-[30Jan2025 23:47:45.997] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[30Jan2025 23:47:46.000] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[30Jan2025 23:47:46.000] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[30Jan2025 23:47:46.001] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[30Jan2025 23:47:46.481] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[30Jan2025 23:47:47.105] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.8.6 Target: 8.9.0
-[30Jan2025 23:47:47.106] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[30Jan2025 23:47:47.426] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.27
-[30Jan2025 23:47:47.426] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[30Jan2025 23:47:47.575] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 9.1.15 Target: 9.1.16
-[30Jan2025 23:47:50.076] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[30Jan2025 23:47:50.362] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: ashes1ashes:netherw_artblock Expected: 1035 Got: 1003
-[30Jan2025 23:47:50.362] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: ashes1ashes:smile Expected: 1036 Got: 1095
-[30Jan2025 23:47:50.363] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: ashes1ashes:ojo Expected: 1037 Got: 1096
-[30Jan2025 23:47:50.364] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: ashes1ashes:netherw_artblock Expected: 1355 Got: 1431
-[30Jan2025 23:47:50.365] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: ashes1ashes:smile Expected: 1356 Got: 1432
-[30Jan2025 23:47:50.366] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: ashes1ashes:ojo Expected: 1357 Got: 1433
-[30Jan2025 23:47:50.366] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:mob_effect: Object did not get ID it asked for. Name: ashes1ashes:tp Expected: 53 Got: 54
-[30Jan2025 23:47:50.367] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: ashes1ashes:disc13 Expected: 1492 Got: 1551
-[30Jan2025 23:47:50.368] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: ashes1ashes:cuevas Expected: 1493 Got: 1552
-[30Jan2025 23:47:50.368] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: ashes1ashes:cave12 Expected: 1494 Got: 1553
-[30Jan2025 23:47:50.369] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: ashes1ashes:cave11 Expected: 1495 Got: 1554
-[30Jan2025 23:47:50.369] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: ashes1ashes:cave8sound Expected: 1496 Got: 1555
-[30Jan2025 23:47:50.370] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: ashes1ashes:caminartierra Expected: 1497 Got: 1556
-[30Jan2025 23:47:50.370] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: ashes1ashes:caminarpiedra Expected: 1498 Got: 1557
-[30Jan2025 23:47:50.370] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: ashes1ashes:cave-sound-5 Expected: 1499 Got: 1558
-[30Jan2025 23:47:50.371] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: ashes1ashes:cave-sound-4 Expected: 1500 Got: 1559
-[30Jan2025 23:47:50.371] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: ashes1ashes:cave-sound-14 Expected: 1501 Got: 1560
-[30Jan2025 23:47:50.372] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: ashes1ashes:cave-sound-19 Expected: 1502 Got: 1561
-[30Jan2025 23:47:50.372] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: ashes1ashes:cave-sound-12 Expected: 1503 Got: 1562
-[30Jan2025 23:47:50.373] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: ashes1ashes:cave-sound-11 Expected: 1504 Got: 1563
-[30Jan2025 23:47:50.373] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: ashes1ashes:cave-sound-7 Expected: 1505 Got: 1564
-[30Jan2025 23:47:50.373] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: ashes1ashes:cueva21 Expected: 1506 Got: 1565
-[30Jan2025 23:47:50.374] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: ashes1ashes:corriendo Expected: 1507 Got: 1566
-[30Jan2025 23:47:50.374] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: ashes1ashes:balloon Expected: 1508 Got: 1567
-[30Jan2025 23:47:50.375] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: ashes1ashes:pasos Expected: 1509 Got: 1568
-[30Jan2025 23:47:50.375] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: ashes1ashes:ambience01 Expected: 1510 Got: 1569
-[30Jan2025 23:47:50.376] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: ashes1ashes:ambience02 Expected: 1511 Got: 1570
-[30Jan2025 23:47:50.376] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: ashes1ashes:ambience06 Expected: 1512 Got: 1571
-[30Jan2025 23:47:50.377] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: ashes1ashes:ambience07 Expected: 1513 Got: 1572
-[30Jan2025 23:47:50.377] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: ashes1ashes:ambience08 Expected: 1514 Got: 1573
-[30Jan2025 23:47:50.378] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: ashes1ashes:ambience09 Expected: 1515 Got: 1574
-[30Jan2025 23:47:50.378] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: ashes1ashes:ambience10 Expected: 1516 Got: 1575
-[30Jan2025 23:47:50.378] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: ashes1ashes:ambience12 Expected: 1517 Got: 1576
-[30Jan2025 23:47:50.379] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: ashes1ashes:ambience13 Expected: 1518 Got: 1577
-[30Jan2025 23:47:50.379] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: ashes1ashes:ambience14 Expected: 1519 Got: 1578
-[30Jan2025 23:47:50.380] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: ashes1ashes:ambience15 Expected: 1520 Got: 1579
-[30Jan2025 23:47:50.380] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: ashes1ashes:ambience16 Expected: 1521 Got: 1580
-[30Jan2025 23:47:50.380] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: ashes1ashes:ambience17 Expected: 1522 Got: 1581
-[30Jan2025 23:47:50.381] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: ashes1ashes:ambience18 Expected: 1523 Got: 1582
-[30Jan2025 23:47:50.381] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: ashes1ashes:bitcrush1de2 Expected: 1524 Got: 1583
-[30Jan2025 23:47:50.382] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: ashes1ashes:bitcrush2de2 Expected: 1525 Got: 1584
-[30Jan2025 23:47:50.382] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: ashes1ashes:bitcrushjar1part Expected: 1526 Got: 1585
-[30Jan2025 23:47:50.382] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: ashes1ashes:bitcrushjar2part Expected: 1527 Got: 1586
-[30Jan2025 23:47:50.383] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: ashes1ashes:cow Expected: 142 Got: 146
-[30Jan2025 23:47:50.383] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: ashes1ashes:villager Expected: 143 Got: 147
-[30Jan2025 23:47:50.384] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: ashes1ashes:chicken Expected: 144 Got: 148
-[30Jan2025 23:47:50.384] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: ashes1ashes:n Expected: 145 Got: 149
-[30Jan2025 23:47:50.385] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: ashes1ashes:squid Expected: 146 Got: 150
-[30Jan2025 23:47:50.385] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: ashes1ashes:v Expected: 147 Got: 151
-[30Jan2025 23:47:50.385] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: ashes1ashes:villagrr Expected: 148 Got: 152
-[30Jan2025 23:47:50.386] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: ashes1ashes:invisible Expected: 149 Got: 153
-[30Jan2025 23:47:50.386] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: ashes1ashes:sonido_1 Expected: 150 Got: 154
-[30Jan2025 23:47:50.387] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: ashes1ashes:sonido_2 Expected: 151 Got: 155
-[30Jan2025 23:47:50.387] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: ashes1ashes:sonido_3 Expected: 152 Got: 156
-[30Jan2025 23:47:50.388] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: ashes1ashes:sonido_4 Expected: 153 Got: 157
-[30Jan2025 23:47:50.388] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: ashes1ashes:sonido_5 Expected: 154 Got: 158
-[30Jan2025 23:47:50.388] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: ashes1ashes:jar Expected: 155 Got: 159
-[30Jan2025 23:47:50.389] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: ashes1ashes:balloon Expected: 156 Got: 160
-[30Jan2025 23:47:50.389] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: ashes1ashes:invisible_cruz Expected: 157 Got: 161
-[30Jan2025 23:47:50.390] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: ashes1ashes:jar_hostile Expected: 158 Got: 162
-[30Jan2025 23:47:50.390] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: ashes1ashes:maze Expected: 159 Got: 163
-[30Jan2025 23:47:50.391] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: ashes1ashes:maze_1 Expected: 160 Got: 164
-[30Jan2025 23:47:50.391] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: ashes1ashes:maze_2 Expected: 161 Got: 165
-[30Jan2025 23:47:50.392] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: ashes1ashes:maze_invisible_2 Expected: 162 Got: 166
-[30Jan2025 23:47:50.392] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: ashes1ashes:spawn_1 Expected: 163 Got: 167
-[30Jan2025 23:47:50.393] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: ashes1ashes:spawn_2 Expected: 164 Got: 168
-[30Jan2025 23:47:50.393] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: ashes1ashes:spawn_3 Expected: 165 Got: 169
-[30Jan2025 23:47:50.394] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: ashes1ashes:hijitus Expected: 166 Got: 170
-[30Jan2025 23:47:50.394] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: ashes1ashes:aldeano_mladito Expected: 167 Got: 171
-[30Jan2025 23:47:50.395] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: ashes1ashes:no_face_v Expected: 168 Got: 172
-[30Jan2025 23:47:50.395] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: ashes1ashes:jar_cubo Expected: 169 Got: 173
-[30Jan2025 23:47:50.395] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: ashes1ashes:invisible_casa Expected: 170 Got: 174
-[30Jan2025 23:47:50.396] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: ashes1ashes:jar_cube_2 Expected: 171 Got: 175
-[30Jan2025 23:47:50.396] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: ashes1ashes:jar_cube_close Expected: 172 Got: 176
-[30Jan2025 23:47:50.400] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:painting_variant: Object did not get ID it asked for. Name: ashes1ashes:tomino Expected: 31 Got: 33
-[30Jan2025 23:47:51.794] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Dechillxd/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23121!/assets/.mcassetsroot' uses unexpected schema
-[30Jan2025 23:47:51.795] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Dechillxd/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23121!/data/.mcassetsroot' uses unexpected schema
-[30Jan2025 23:47:55.624] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
-[30Jan2025 23:47:55.825] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement ashes1ashes:crash: Expected item to be an item, was unknown string 'minecraft:player_wall_head'
-[30Jan2025 23:47:55.876] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1555 advancements
-[30Jan2025 23:47:56.893] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[30Jan2025 23:47:56.893] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[30Jan2025 23:47:56.894] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[30Jan2025 23:47:56.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[30Jan2025 23:47:57.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[30Jan2025 23:47:57.203] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[30Jan2025 23:47:57.323] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[30Jan2025 23:47:57.324] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[30Jan2025 23:47:57.325] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[30Jan2025 23:47:57.325] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[30Jan2025 23:47:57.360] [Thread-1/INFO] [de.cadentem.goat_man.GoatMan/]: Server configuration has been reloaded
-[30Jan2025 23:47:57.362] [Thread-1/INFO] [de.cadentem.cave_dweller.CaveDweller/]: Server configuration has been reloaded
-[30Jan2025 23:47:57.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[30Jan2025 23:48:05.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[30Jan2025 23:48:12.632] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jan2025 23:48:12.633] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jan2025 23:48:12.633] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jan2025 23:48:12.634] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jan2025 23:48:12.637] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jan2025 23:48:12.639] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jan2025 23:48:12.640] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jan2025 23:48:12.641] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jan2025 23:48:12.642] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jan2025 23:48:12.648] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jan2025 23:48:12.649] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jan2025 23:48:12.650] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jan2025 23:48:12.651] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jan2025 23:48:12.652] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jan2025 23:48:12.661] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jan2025 23:48:12.668] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jan2025 23:48:13.008] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jan2025 23:48:13.508] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jan2025 23:48:14.008] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jan2025 23:48:14.510] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 81%
-[30Jan2025 23:48:14.774] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9766 ms
-[30Jan2025 23:48:14.776] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (17.432s)! For help, type "help"
-[30Jan2025 23:48:14.812] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[30Jan2025 23:48:50.444] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo25445[/127.123.10.33:34793] logged in with entity id 244 at (-1569.6054312065878, 71.0, -740.4171594707954)
-[30Jan2025 23:48:50.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo25445 joined the game
-[30Jan2025 23:48:54.453] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4037ms or 80 ticks behind
-[30Jan2025 23:48:55.079] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:49:35.868] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:49:41.620] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:49:41.668] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:49:45.567] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:49:45.568] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:49:48.770] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:49:48.967] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:49:52.867] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:49:52.868] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:49:52.918] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:49:53.424] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:49:53.470] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:49:53.517] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:49:53.612] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:49:53.689] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:49:54.043] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:49:54.670] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:49:54.718] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:49:54.768] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:49:55.369] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:49:55.469] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:49:55.519] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor but it was marked as removed already
-[30Jan2025 23:49:55.868] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:50:01.218] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:50:02.467] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:50:02.518] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:50:03.568] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:50:03.569] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:50:03.569] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:50:04.469] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:50:10.317] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor but it was marked as removed already
-[30Jan2025 23:50:14.176] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/295, l='ServerLevel[world]', x=-1595.36, y=78.00, z=-794.41] died, message: 'Villager was slain by Zombie'
-[30Jan2025 23:50:21.768] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:50:22.672] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:50:22.673] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:50:22.675] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:50:23.668] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:50:23.668] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:50:23.717] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:50:23.767] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:50:24.219] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:50:25.018] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:50:25.019] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:50:26.274] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/296, l='ServerLevel[world]', x=-1595.42, y=78.00, z=-795.44] died, message: 'Nitwit was slain by Zombie'
-[30Jan2025 23:50:26.318] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:50:26.320] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:50:26.417] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:50:27.368] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:50:27.369] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:50:38.968] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:50:39.018] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:50:39.067] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:50:43.468] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:50:43.519] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:50:43.567] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:50:43.617] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:50:45.868] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor_2 but it was marked as removed already
-[30Jan2025 23:50:48.068] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:50:49.817] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:50:50.017] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:50:50.067] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:50:55.817] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:50:58.167] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:50:58.218] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:50:58.268] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:50:58.367] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:50:59.218] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:50:59.269] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:50:59.317] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:51:00.267] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:51:01.318] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:51:01.867] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:51:03.469] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:51:03.473] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:51:07.470] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:51:07.568] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:51:11.267] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:51:11.317] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:51:11.367] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:51:11.368] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:51:11.418] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:51:11.418] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:51:11.468] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:51:11.468] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:51:11.471] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:51:13.618] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:51:13.670] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:51:13.719] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:51:13.967] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:51:14.417] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:51:14.467] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:51:14.517] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:51:15.718] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:51:19.017] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:51:19.067] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:51:19.116] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:51:19.217] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:51:19.267] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:51:19.368] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:51:21.267] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:51:21.319] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:51:25.567] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:51:25.617] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:51:25.667] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:51:25.667] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:51:25.717] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:51:25.867] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:51:25.916] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:51:25.918] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:51:27.067] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:51:27.867] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:51:27.868] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:51:27.967] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:51:29.916] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:51:36.367] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:51:36.417] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:51:39.567] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:51:39.568] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:51:41.617] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:51:41.667] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:51:41.717] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:51:41.769] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:51:41.817] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:51:46.967] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:51:46.968] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:51:47.067] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:51:47.117] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:51:47.367] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:51:47.417] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor_2 but it was marked as removed already
-[30Jan2025 23:51:47.417] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:51:47.468] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:51:47.517] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:51:47.567] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:51:47.617] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:51:48.318] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:51:49.167] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:51:49.168] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:51:52.467] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:51:52.567] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:51:52.617] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:51:52.717] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:51:54.868] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:51:55.417] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:51:55.468] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:51:58.218] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:51:58.268] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:52:00.467] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:52:03.716] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:52:03.768] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:52:03.817] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:52:05.267] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:52:05.316] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:52:12.316] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:52:15.117] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:52:15.167] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:52:18.317] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:52:24.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo25445: Gave 1 [Hacha de Teletransporte] to Eduardo25445]
-[30Jan2025 23:52:26.517] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:52:29.567] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:52:29.817] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:52:31.818] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:52:31.868] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:52:31.869] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:52:31.919] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:52:31.920] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:52:31.968] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:52:42.867] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:52:42.868] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:52:43.267] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:52:43.467] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor_2 but it was marked as removed already
-[30Jan2025 23:52:51.118] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:52:59.767] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:53:01.567] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:53:02.368] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:53:03.517] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:53:03.568] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:53:12.768] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:53:17.067] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:53:19.319] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:53:22.467] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:53:22.517] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:53:25.267] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:53:25.317] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:53:26.868] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:53:27.018] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:53:27.020] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:53:27.668] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:53:30.017] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:53:32.168] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:53:32.268] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:53:32.317] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:53:32.367] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:53:53.319] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor but it was marked as removed already
-[30Jan2025 23:53:53.417] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:53:53.467] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:53:54.867] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:53:55.668] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor but it was marked as removed already
-[30Jan2025 23:53:57.217] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:53:57.218] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:53:57.267] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:54:05.168] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:54:05.217] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:54:07.167] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:54:07.768] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:54:07.821] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:54:08.267] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:54:08.368] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:54:08.369] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:54:08.417] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:54:09.368] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:54:09.417] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:54:13.117] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:54:13.167] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:54:15.248] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _Arkuzz_[/127.123.10.33:40439] logged in with entity id 1345 at (-1571.300000011921, 77.0, -820.6999999880791)
-[30Jan2025 23:54:15.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ joined the game
-[30Jan2025 23:54:15.747] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:54:15.748] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:54:15.748] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor but it was marked as removed already
-[30Jan2025 23:54:15.761] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:54:15.842] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:54:15.943] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:54:15.944] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:54:16.035] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:54:16.043] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:54:16.045] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:54:16.216] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:54:16.218] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:54:16.326] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor but it was marked as removed already
-[30Jan2025 23:54:16.327] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:54:16.415] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:54:16.500] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:54:16.502] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:54:16.770] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:54:16.773] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:54:16.840] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:54:16.842] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:54:16.843] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:54:16.844] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[30Jan2025 23:54:16.845] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:54:16.846] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:54:16.893] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:54:16.894] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
-[30Jan2025 23:54:16.969] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:54:17.006] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[30Jan2025 23:54:29.679] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo25445 lost connection: Disconnected
-[30Jan2025 23:54:29.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo25445 left the game
-[30Jan2025 23:54:29.685] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Arkuzz_ lost connection: Disconnected
-[30Jan2025 23:54:29.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ left the game
-[30Jan2025 23:54:29.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[30Jan2025 23:54:29.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[30Jan2025 23:54:29.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[30Jan2025 23:54:31.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[30Jan2025 23:54:32.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[30Jan2025 23:54:32.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[30Jan2025 23:54:32.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[30Jan2025 23:54:32.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[30Jan2025 23:54:32.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[30Jan2025 23:54:32.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[31Jan2025 00:00:04.216] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:00:06.466] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:00:06.467] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:00:06.516] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:00:07.266] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:00:07.267] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:00:07.366] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:00:07.416] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:00:13.016] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:00:13.068] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:00:20.867] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:00:20.966] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:00:28.074] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:00:31.317] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:00:31.967] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:00:35.766] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:00:35.816] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:00:35.867] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:00:36.917] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:00:37.016] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:00:38.618] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:00:38.716] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:00:39.417] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:00:40.367] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:00:46.815] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:00:46.867] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:00:46.917] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:00:46.966] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:00:50.366] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:00:59.317] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:01:02.216] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:01:02.267] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:01:02.316] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:01:02.366] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:01:04.667] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:01:08.416] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:01:08.667] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor but it was marked as removed already
+[31Jan2025 00:01:08.667] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:01:08.766] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:01:08.816] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:01:08.916] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:01:08.916] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:01:08.966] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:01:11.317] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:01:11.416] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:01:11.467] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:01:21.465] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:01:24.717] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:01:24.767] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:01:24.817] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:01:33.417] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:01:33.516] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:01:34.316] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:01:41.616] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:01:41.617] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:01:44.417] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:01:44.418] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:01:44.466] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:01:44.917] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:01:46.466] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:01:47.667] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:01:47.668] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:01:47.766] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:01:47.769] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:01:47.866] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:01:47.867] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:01:55.717] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:01:58.367] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:01:58.716] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:02:00.866] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:02:00.916] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:02:01.117] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:02:01.166] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:02:01.217] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:02:01.218] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:02:02.467] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:02:02.567] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:02:15.417] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:02:18.167] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:02:18.266] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:02:23.766] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:02:28.916] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:02:29.367] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:02:29.466] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:02:29.516] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:02:40.616] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:02:42.467] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:02:45.316] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:02:45.467] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:02:45.516] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:02:52.066] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:02:57.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Eduardo25445> qfue
+[31Jan2025 00:03:01.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Arkuzz_> q haces xd?
+[31Jan2025 00:03:04.316] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:03:04.367] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:03:07.917] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:03:07.967] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:03:08.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Eduardo25445> no funciona :<
+[31Jan2025 00:03:09.131] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:03:09.216] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:03:09.266] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:03:09.367] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:03:09.467] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:03:09.566] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:03:09.616] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:03:12.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Arkuzz_> q cosa xd
+[31Jan2025 00:03:16.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Eduardo25445> mi hacha tp
+[31Jan2025 00:03:17.466] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:03:17.566] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:03:17.567] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:03:20.116] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:03:20.217] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:03:20.316] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:03:20.366] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:03:22.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Arkuzz_> .-.
+[31Jan2025 00:03:27.217] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:03:27.566] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:03:29.166] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:03:34.128] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:03:34.217] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:03:34.326] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:03:34.916] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:03:38.866] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:03:38.916] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:03:38.967] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:03:39.667] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:03:39.767] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:03:40.867] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:03:45.366] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:03:45.417] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:03:46.867] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:03:46.916] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:03:47.766] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:03:47.768] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:03:48.066] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:03:48.916] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:03:50.716] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:03:51.367] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:03:51.620] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:03:53.867] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:03:56.068] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:03:56.069] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:03:57.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Eduardo25445> oe
+[31Jan2025 00:03:58.705] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:03:58.819] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:03:59.067] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:03:59.166] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:03:59.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Arkuzz_> q
+[31Jan2025 00:04:00.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Eduardo25445> quieres op
+[31Jan2025 00:04:00.868] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:04:00.868] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:04:01.068] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:04:01.117] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:04:01.167] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:04:01.216] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:04:01.217] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:04:01.266] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:04:01.268] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:04:01.317] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:04:01.368] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:04:02.204] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:04:04.151] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:04:05.585] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:04:05.623] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:04:05.625] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:04:05.667] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[31Jan2025 00:04:05.764] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:04:06.218] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:04:06.221] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:04:06.270] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:04:20.022] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:04:21.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Arkuzz_> ya xd
+[31Jan2025 00:04:27.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Eduardo25445> yaya
+[31Jan2025 00:04:29.816] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:04:29.866] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:04:30.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Arkuzz_> puedes ponerlo para que solo pueda usar tp?
+[31Jan2025 00:04:32.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Eduardo25445> ya vamos a tragar
+[31Jan2025 00:04:33.167] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:04:33.267] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:04:38.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Eduardo25445> nel
+[31Jan2025 00:04:39.116] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:04:39.367] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:04:39.516] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:04:39.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Arkuzz_> justo te iba a decir eso
+[31Jan2025 00:04:41.028] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:04:43.017] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:04:43.116] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:04:45.267] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:04:45.516] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:04:46.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Arkuzz_> dame op nomas tonc
+[31Jan2025 00:04:51.117] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:04:51.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo25445: Made _Arkuzz_ a server operator]
+[31Jan2025 00:04:53.766] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:04:57.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Eduardo25445> ya
+[31Jan2025 00:05:00.687] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo25445 lost connection: Disconnected
+[31Jan2025 00:05:00.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo25445 left the game
+[31Jan2025 00:05:01.167] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:05:01.766] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:05:01.867] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:05:02.766] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:05:04.515] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:05:04.566] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:05:09.667] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[31Jan2025 00:05:09.766] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:05:13.216] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[31Jan2025 00:05:14.575] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Arkuzz_ lost connection: Disconnected
+[31Jan2025 00:05:14.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ left the game
+[31Jan2025 00:05:33.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[31Jan2025 00:05:33.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[31Jan2025 00:05:33.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[31Jan2025 00:05:34.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[31Jan2025 00:05:34.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[31Jan2025 00:05:34.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[31Jan2025 00:05:34.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[31Jan2025 00:05:34.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[31Jan2025 00:05:34.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[31Jan2025 00:05:34.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
