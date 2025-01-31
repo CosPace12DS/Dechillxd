@@ -7,20 +7,26 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-01-31 20:20:54 +0000",
       "minecraft:frozen_river": "2025-01-31 01:51:52 +0000",
       "minecraft:birch_forest": "2025-01-30 23:05:18 +0000",
       "minecraft:beach": "2025-01-30 22:58:57 +0000",
       "minecraft:dark_forest": "2025-01-30 23:17:49 +0000",
       "minecraft:river": "2025-01-30 23:03:20 +0000",
+      "minecraft:lukewarm_ocean": "2025-01-31 20:22:52 +0000",
       "minecraft:stony_shore": "2025-01-30 23:15:31 +0000",
       "minecraft:snowy_plains": "2025-01-31 01:51:02 +0000",
       "minecraft:snowy_taiga": "2025-01-31 02:43:41 +0000",
       "minecraft:cold_ocean": "2025-01-31 01:59:05 +0000",
       "minecraft:forest": "2025-01-30 22:58:49 +0000",
+      "minecraft:deep_cold_ocean": "2025-01-31 20:16:17 +0000",
       "minecraft:frozen_ocean": "2025-01-31 01:57:23 +0000",
+      "minecraft:deep_frozen_ocean": "2025-01-31 20:16:23 +0000",
       "minecraft:ocean": "2025-01-30 22:46:59 +0000",
       "minecraft:snowy_beach": "2025-01-31 01:55:47 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-01-31 20:22:18 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-30 21:09:42 +0000",
+      "minecraft:savanna": "2025-01-31 20:23:16 +0000",
       "minecraft:plains": "2025-01-30 23:25:04 +0000"
     },
     "done": false
@@ -159,6 +165,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-01-31 20:11:56 +0000",
       "cooked_mutton": "2025-01-30 22:42:49 +0000",
       "cooked_beef": "2025-01-30 23:05:56 +0000",
       "golden_apple": "2025-01-30 22:41:58 +0000",
