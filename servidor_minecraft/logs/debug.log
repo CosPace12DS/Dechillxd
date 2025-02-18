@@ -5422,3 +5422,602 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [18Feb2025 22:00:26.742] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
 [18Feb2025 22:00:26.749] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
 [18Feb2025 22:00:30.805] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.10, y=74.00, z=-330.03]]
+[18Feb2025 22:00:32.101] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.10, y=74.00, z=-330.03]]
+[18Feb2025 22:00:34.048] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.10, y=74.00, z=-330.03]]
+[18Feb2025 22:00:35.402] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.10, y=74.00, z=-330.03]]
+[18Feb2025 22:00:36.274] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.10, y=74.00, z=-330.03]]
+[18Feb2025 22:00:36.321] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:00:36.338] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:00:37.453] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.10, y=74.00, z=-330.03]]
+[18Feb2025 22:00:37.469] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2602ms or 52 ticks behind
+[18Feb2025 22:00:37.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_Arkuzz_: Set own game mode to Creative Mode]
+[18Feb2025 22:00:38.118] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:00:38.218] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:00:42.168] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:00:42.218] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:00:42.270] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:00:42.272] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:00:42.319] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:00:42.320] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:00:43.025] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:00:43.118] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:00:43.268] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:00:43.319] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:00:43.418] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:00:44.005] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Feb2025 22:00:44.024] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Feb2025 22:00:44.269] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:00:44.318] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:00:44.318] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:00:44.419] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:00:44.420] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:00:46.518] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:00:46.568] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:00:46.669] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:00:46.718] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:00:46.768] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:00:46.868] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:00:46.869] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:00:47.218] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:00:50.118] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:00:51.268] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor but it was marked as removed already
+[18Feb2025 22:00:51.268] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor_2 but it was marked as removed already
+[18Feb2025 22:00:51.319] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:00:55.868] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor but it was marked as removed already
+[18Feb2025 22:00:55.869] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor but it was marked as removed already
+[18Feb2025 22:00:55.869] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor_2 but it was marked as removed already
+[18Feb2025 22:00:55.918] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor_2 but it was marked as removed already
+[18Feb2025 22:00:55.918] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:00:55.919] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor but it was marked as removed already
+[18Feb2025 22:00:58.518] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:00:58.618] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:00:58.618] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:00:58.669] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:00:59.372] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:00:59.375] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:00:59.519] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:00:59.568] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:01:00.118] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:01:00.120] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:01:04.668] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:01:04.918] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:01:04.918] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:01:05.018] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:01:16.220] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:01:19.018] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:01:19.018] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:01:19.168] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:01:19.219] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor_2 but it was marked as removed already
+[18Feb2025 22:01:21.018] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:01:21.118] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:01:21.218] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:01:21.219] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:01:21.268] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:01:21.269] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:01:21.269] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:01:21.319] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:01:21.369] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:01:21.468] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:01:21.518] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:01:22.918] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:01:22.968] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:01:23.019] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor_2 but it was marked as removed already
+[18Feb2025 22:01:23.019] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:01:23.068] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:01:24.768] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:01:24.918] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:01:24.968] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:01:25.718] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:01:25.720] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:01:27.018] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:01:27.119] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:01:27.168] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:01:29.318] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:01:29.318] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:01:30.618] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:01:30.618] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:01:30.718] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:01:30.868] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:01:30.918] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:01:31.820] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:01:31.868] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:01:31.968] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor_2 but it was marked as removed already
+[18Feb2025 22:01:33.468] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:01:35.718] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:01:35.769] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:01:35.868] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:01:39.768] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:01:40.318] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:01:40.319] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:01:41.518] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:01:41.568] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:01:41.618] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:01:41.669] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:01:45.618] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:01:49.619] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:01:50.818] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:01:50.819] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:01:50.869] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:01:50.968] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:01:51.018] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor but it was marked as removed already
+[18Feb2025 22:01:51.118] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:01:51.319] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:01:51.368] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:01:51.368] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:01:51.418] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:01:54.568] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:01:54.569] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:01:55.269] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:01:55.768] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:01:55.969] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:01:56.119] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:01:56.120] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:01:56.168] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:01:58.569] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:01:58.571] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:01:58.572] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:01:58.618] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:02:02.469] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:02:11.168] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:02:11.169] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:02:11.219] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:02:11.269] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:02:11.368] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:02:11.368] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:02:11.468] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:02:11.469] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:02:11.668] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:02:11.768] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:02:11.869] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:02:13.218] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:02:13.218] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:02:15.468] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:02:15.519] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:02:19.169] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:02:21.368] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:02:21.418] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:02:22.518] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:02:22.569] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:02:22.619] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:02:22.668] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:02:25.668] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:02:25.768] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:02:25.819] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:02:25.819] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:02:25.868] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:02:26.068] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:02:27.468] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:02:32.969] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:02:33.820] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor but it was marked as removed already
+[18Feb2025 22:02:33.821] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:02:33.868] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:02:34.119] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:02:34.169] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:02:36.419] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:02:42.918] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor_2 but it was marked as removed already
+[18Feb2025 22:02:45.218] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:02:45.268] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:02:45.318] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:02:45.369] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:02:47.819] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:02:47.826] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:02:51.618] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:02:51.718] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor but it was marked as removed already
+[18Feb2025 22:02:51.718] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor but it was marked as removed already
+[18Feb2025 22:02:51.719] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:02:51.868] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:02:51.919] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:02:53.518] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:02:56.218] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:02:56.219] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:02:56.268] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:02:56.268] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:02:56.919] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:02:56.968] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:02:57.018] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:02:57.019] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:02:57.068] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:02:57.069] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:02:57.119] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:02:58.369] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:02:58.468] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:02:58.469] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:02:58.519] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:03:01.419] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:03:01.518] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:03:01.568] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:03:01.618] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:03:01.668] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor_2 but it was marked as removed already
+[18Feb2025 22:03:01.719] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:03:01.768] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:03:01.768] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:03:01.969] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:03:02.019] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:03:02.119] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:03:02.268] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:03:02.368] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:03:02.618] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor_2 but it was marked as removed already
+[18Feb2025 22:03:02.718] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:03:02.718] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:03:03.518] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:03:03.568] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:03:03.667] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:03:04.618] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:03:05.568] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:03:05.618] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:03:05.668] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:03:06.168] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:03:08.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_Arkuzz_: Set own game mode to Survival Mode]
+[18Feb2025 22:03:09.421] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:03:10.968] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:03:12.168] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:03:12.218] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:03:12.268] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:03:13.696] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:03:14.365] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:03:14.668] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:03:14.718] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:03:14.768] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:03:14.818] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:03:15.568] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:03:15.668] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:03:15.718] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:03:16.418] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:03:16.468] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:03:16.469] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:03:16.518] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:03:16.569] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:03:18.569] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:03:18.614] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:03:18.628] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor but it was marked as removed already
+[18Feb2025 22:03:19.267] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:03:19.268] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor_2 but it was marked as removed already
+[18Feb2025 22:03:19.368] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:03:19.517] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:03:19.618] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_shadow_stalker but it was marked as removed already
+[18Feb2025 22:03:19.619] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor_2 but it was marked as removed already
+[18Feb2025 22:03:19.668] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:03:20.833] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:03:21.648] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:03:21.677] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:03:21.691] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:03:21.691] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:03:21.703] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:03:21.708] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:03:22.243] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:03:22.245] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:03:22.246] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:03:23.515] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:03:24.511] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:03:25.630] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:03:26.772] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:03:27.481] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:03:28.251] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:03:28.252] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor but it was marked as removed already
+[18Feb2025 22:03:28.879] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:03:28.880] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:03:28.994] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:03:29.969] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:03:30.600] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:03:31.256] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:03:31.268] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[18Feb2025 22:03:32.326] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:03:33.151] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:03:34.739] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:03:34.753] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:03:34.759] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:03:34.765] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:03:34.800] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:03:34.818] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:03:34.819] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:03:34.869] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:03:34.869] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:03:34.968] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:03:35.018] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:03:35.068] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:03:36.135] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:03:38.119] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:03:38.218] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:03:38.269] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:03:38.418] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:03:38.569] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:03:38.619] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:03:39.289] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:03:40.443] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:03:41.554] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:03:41.599] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:03:41.613] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:03:42.488] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:03:43.459] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:03:44.177] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:03:46.411] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:03:47.098] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:03:47.814] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:03:47.827] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:03:48.636] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:03:48.637] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor_2 but it was marked as removed already
+[18Feb2025 22:03:48.668] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:03:48.705] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:03:48.738] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:03:48.744] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:03:48.752] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:03:48.757] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:03:48.764] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:03:49.368] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:03:49.869] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:03:51.518] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:03:51.668] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:03:52.718] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:03:53.219] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:03:53.269] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:03:53.318] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:03:53.918] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:03:54.618] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:03:55.368] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:03:55.518] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:03:56.119] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:03:56.168] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:03:56.268] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:03:57.118] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:03:57.268] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:03:58.018] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:03:58.168] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:03:58.369] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:00.768] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:01.118] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:03.018] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:04.169] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:04:05.168] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:05.218] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:05.418] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:04:05.618] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:04:05.718] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:04:06.118] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:06.918] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:08.218] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:04:08.268] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:04:08.318] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:08.918] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:04:08.968] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:04:09.869] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:04:11.369] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:04:11.419] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor_2 but it was marked as removed already
+[18Feb2025 22:04:11.468] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:04:11.518] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:04:12.468] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:12.919] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:04:13.019] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:04:15.368] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:04:16.318] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:16.368] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:16.717] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:18.318] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:18.868] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:19.818] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:21.269] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:21.368] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:23.068] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:24.518] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:24.968] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:26.668] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:26.868] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:28.468] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:29.319] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:04:30.568] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:30.968] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:31.569] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:32.318] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:34.218] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:04:34.268] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:34.668] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:34.669] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:04:35.568] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:40.118] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:40.668] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:40.768] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:40.920] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:41.818] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:42.418] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:44.068] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:44.118] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:44.718] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:46.068] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:04:47.769] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:04:48.418] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:04:48.669] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:48.768] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:04:49.019] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:49.568] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:49.718] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:04:49.818] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:04:50.968] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:51.618] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:52.818] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:53.268] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:53.418] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:54.268] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:04:54.269] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:04:55.219] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:04:55.319] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:55.319] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:04:56.468] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:59.218] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:59.368] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:59.568] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:04:59.619] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:04:59.619] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:04:59.868] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:05:00.118] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:05:00.568] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:05:00.718] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:05:00.719] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:05:00.868] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:05:00.868] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:05:01.268] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:05:01.269] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:05:01.527] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:05:02.418] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:05:03.318] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:05:03.468] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:05:03.918] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:05:04.068] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:05:04.318] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:05:04.718] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:05:05.018] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:05:05.418] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:05:06.667] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:05:08.118] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:05:08.768] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.59, y=74.00, z=-336.01]]
+[18Feb2025 22:05:09.918] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor_2 but it was marked as removed already
+[18Feb2025 22:05:10.218] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:05:10.518] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:05:10.618] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:05:11.418] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.55, y=74.00, z=-334.00]]
+[18Feb2025 22:05:13.218] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.55, y=74.00, z=-334.00]]
+[18Feb2025 22:05:14.018] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.55, y=74.00, z=-334.00]]
+[18Feb2025 22:05:16.268] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.55, y=74.00, z=-334.00]]
+[18Feb2025 22:05:17.368] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.55, y=74.00, z=-334.00]]
+[18Feb2025 22:05:17.568] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.55, y=74.00, z=-334.00]]
+[18Feb2025 22:05:18.268] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.55, y=74.00, z=-334.00]]
+[18Feb2025 22:05:18.718] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.55, y=74.00, z=-334.00]]
+[18Feb2025 22:05:19.018] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:05:19.318] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:05:21.018] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1745.37, y=74.00, z=-333.76]]
+[18Feb2025 22:05:21.668] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:05:21.920] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1746.07, y=74.00, z=-333.71]]
+[18Feb2025 22:05:22.068] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:05:22.168] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:05:23.018] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1746.07, y=74.00, z=-333.42]]
+[18Feb2025 22:05:23.618] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1745.95, y=74.00, z=-333.58]]
+[18Feb2025 22:05:23.718] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1745.70, y=74.00, z=-333.60]]
+[18Feb2025 22:05:23.918] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1745.34, y=74.00, z=-333.64]]
+[18Feb2025 22:05:25.568] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1746.62, y=74.00, z=-332.43]]
+[18Feb2025 22:05:25.618] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1746.62, y=74.00, z=-332.43]]
+[18Feb2025 22:05:26.018] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1747.02, y=74.00, z=-332.43]]
+[18Feb2025 22:05:26.818] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1747.42, y=74.00, z=-332.64]]
+[18Feb2025 22:05:27.518] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:05:27.668] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:05:27.668] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:05:27.669] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:05:27.868] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:05:28.819] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1749.50, y=73.00, z=-335.76]]
+[18Feb2025 22:05:29.118] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1748.94, y=73.00, z=-337.17]]
+[18Feb2025 22:05:30.420] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.90, y=73.12, z=-340.75]]
+[18Feb2025 22:05:30.618] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.82, y=74.00, z=-340.80]]
+[18Feb2025 22:05:32.418] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1744.25, y=74.00, z=-340.97]]
+[18Feb2025 22:05:33.618] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1747.29, y=74.00, z=-338.60]]
+[18Feb2025 22:05:33.868] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:05:34.019] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:05:34.418] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1747.20, y=73.00, z=-338.34]]
+[18Feb2025 22:05:34.969] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:05:35.168] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:05:35.269] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:05:36.418] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1737.01, y=73.80, z=-338.52]]
+[18Feb2025 22:05:36.419] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:05:36.719] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:05:36.820] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:05:38.268] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1735.57, y=73.00, z=-337.26]]
+[18Feb2025 22:05:38.968] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1735.57, y=73.00, z=-337.26]]
+[18Feb2025 22:05:40.168] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1735.57, y=73.00, z=-337.26]]
+[18Feb2025 22:05:41.118] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1735.57, y=73.00, z=-337.26]]
+[18Feb2025 22:05:41.568] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1735.57, y=73.00, z=-337.26]]
+[18Feb2025 22:05:43.418] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1735.57, y=73.00, z=-337.26]]
+[18Feb2025 22:05:44.018] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1735.57, y=73.00, z=-337.26]]
+[18Feb2025 22:05:44.219] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1735.57, y=73.00, z=-337.26]]
+[18Feb2025 22:05:44.368] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1735.57, y=73.00, z=-337.26]]
+[18Feb2025 22:05:45.618] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1735.57, y=73.00, z=-337.26]]
+[18Feb2025 22:05:46.039] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Feb2025 22:05:46.046] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Feb2025 22:05:46.219] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1735.71, y=74.00, z=-335.12]]
+[18Feb2025 22:05:51.118] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1746.61, y=73.00, z=-321.88]]
+[18Feb2025 22:05:51.468] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1746.61, y=73.00, z=-321.88]]
+[18Feb2025 22:05:51.818] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1746.61, y=73.00, z=-321.88]]
+[18Feb2025 22:05:52.668] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1746.61, y=73.00, z=-321.88]]
+[18Feb2025 22:05:52.768] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1746.61, y=73.00, z=-321.88]]
+[18Feb2025 22:05:53.218] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1746.61, y=73.00, z=-321.88]]
+[18Feb2025 22:05:53.368] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1746.61, y=73.00, z=-321.88]]
+[18Feb2025 22:05:54.318] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1746.61, y=73.00, z=-321.88]]
+[18Feb2025 22:05:54.618] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1746.61, y=73.00, z=-321.88]]
+[18Feb2025 22:05:55.168] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1746.61, y=73.00, z=-321.88]]
+[18Feb2025 22:05:57.168] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:05:57.219] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:05:57.369] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:05:57.418] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:05:57.468] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:05:58.118] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1746.58, y=71.41, z=-320.91]]
+[18Feb2025 22:05:58.418] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:05:58.469] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:05:58.918] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:05:59.119] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:05:59.518] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1743.48, y=67.92, z=-317.48]]
+[18Feb2025 22:06:03.170] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:06:03.918] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1739.60, y=70.00, z=-314.80]]
+[18Feb2025 22:06:04.568] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1739.33, y=69.00, z=-313.86]]
+[18Feb2025 22:06:04.668] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1739.39, y=69.75, z=-313.55]]
+[18Feb2025 22:06:08.019] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:06:09.069] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:06:09.368] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1748.25, y=73.80, z=-311.16]]
+[18Feb2025 22:06:09.468] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1748.51, y=73.12, z=-311.41]]
+[18Feb2025 22:06:09.469] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:06:09.969] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:06:10.368] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:06:10.419] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:06:10.718] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:06:10.869] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:06:11.068] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1751.51, y=74.25, z=-320.85]]
+[18Feb2025 22:06:11.069] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:06:11.118] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:06:11.168] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:06:11.219] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1752.05, y=73.80, z=-321.64]]
+[18Feb2025 22:06:11.221] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:06:11.518] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1753.04, y=72.42, z=-323.46]]
+[18Feb2025 22:06:11.618] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:06:12.019] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:06:12.270] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1753.99, y=74.25, z=-328.32]]
+[18Feb2025 22:06:12.668] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1753.99, y=73.00, z=-330.21]]
+[18Feb2025 22:06:13.120] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1753.98, y=73.00, z=-330.48]]
+[18Feb2025 22:06:15.868] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1753.98, y=73.00, z=-330.48]]
+[18Feb2025 22:06:16.769] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1753.98, y=73.00, z=-330.48]]
+[18Feb2025 22:06:16.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[18Feb2025 22:06:16.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dificult hard<--[HERE]
+[18Feb2025 22:06:17.418] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:06:24.068] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1753.98, y=73.00, z=-330.48]]
+[18Feb2025 22:06:25.218] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1753.98, y=73.00, z=-330.48]]
+[18Feb2025 22:06:26.318] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1753.98, y=73.00, z=-330.48]]
+[18Feb2025 22:06:26.418] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1753.98, y=73.00, z=-330.48]]
+[18Feb2025 22:06:27.018] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:06:28.568] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:06:28.669] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:06:28.969] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:06:29.168] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1753.98, y=73.00, z=-330.48]]
+[18Feb2025 22:06:29.170] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[18Feb2025 22:06:29.170] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:06:29.568] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1753.98, y=73.00, z=-330.48]]
+[18Feb2025 22:06:29.918] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1753.98, y=73.00, z=-330.48]]
+[18Feb2025 22:06:30.268] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1753.88, y=73.00, z=-330.48]]
+[18Feb2025 22:06:30.418] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1753.28, y=73.00, z=-330.55]]
+[18Feb2025 22:06:30.768] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1751.19, y=74.25, z=-330.98]]
+[18Feb2025 22:06:31.168] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1748.65, y=73.75, z=-331.64]]
+[18Feb2025 22:06:31.819] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:06:32.119] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:06:32.169] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:06:33.371] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[18Feb2025 22:06:33.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected float
+[18Feb2025 22:06:33.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: time set nigth<--[HERE]
+[18Feb2025 22:06:33.568] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[18Feb2025 22:06:34.318] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['_Arkuzz_'/24090, l='ServerLevel[world]', x=-1740.47, y=74.00, z=-329.89]]
+[18Feb2025 22:06:35.025] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Arkuzz_ lost connection: Disconnected
+[18Feb2025 22:06:35.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Arkuzz_ left the game
+[18Feb2025 22:06:44.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Feb2025 22:06:44.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Feb2025 22:06:44.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Feb2025 22:06:45.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18Feb2025 22:06:45.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18Feb2025 22:06:45.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18Feb2025 22:06:45.116] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Feb2025 22:06:45.122] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Feb2025 22:06:45.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18Feb2025 22:06:45.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Feb2025 22:06:45.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Feb2025 22:06:45.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18Feb2025 22:06:45.165] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
