@@ -365,5 +365,23 @@
     },
     "done": true
   },
+  "apollyon:apollyon": {
+    "criteria": {
+      "apollyon": "2025-02-19 22:03:32 +0000"
+    },
+    "done": true
+  },
+  "apollyon:back_to_hell": {
+    "criteria": {
+      "back_to_hell": "2025-02-19 22:03:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-02-19 22:07:19 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
