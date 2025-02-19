@@ -2307,5 +2307,17 @@
     },
     "done": true
   },
+  "the_knocker:cant_sleep": {
+    "criteria": {
+      "cant_sleep_0": "2025-02-19 22:39:18 +0000"
+    },
+    "done": true
+  },
+  "apollyon:apollyon": {
+    "criteria": {
+      "apollyon": "2025-02-19 22:38:02 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
