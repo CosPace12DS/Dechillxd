@@ -2410,6 +2410,12 @@
     },
     "done": true
   },
+  "apollyon:condemned_to_die": {
+    "criteria": {
+      "condemned_to_die": "2025-02-20 20:35:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-02-20 20:26:57 +0000"
