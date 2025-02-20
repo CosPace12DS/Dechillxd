@@ -7,9 +7,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-02-20 21:30:41 +0000",
+      "minecraft:deep_ocean": "2025-02-20 21:12:10 +0000",
       "minecraft:frozen_river": "2025-02-19 22:54:18 +0000",
       "minecraft:birch_forest": "2025-01-30 22:18:24 +0000",
       "minecraft:beach": "2025-01-30 21:29:59 +0000",
+      "minecraft:dark_forest": "2025-02-20 21:12:31 +0000",
       "minecraft:river": "2025-01-30 21:32:34 +0000",
       "minecraft:snowy_plains": "2025-02-19 22:52:35 +0000",
       "minecraft:snowy_taiga": "2025-02-19 23:11:47 +0000",
@@ -147,6 +150,7 @@
     "criteria": {
       "cooked_porkchop": "2025-02-20 20:57:38 +0000",
       "baked_potato": "2025-02-20 20:57:35 +0000",
+      "cooked_cod": "2025-02-20 21:15:27 +0000",
       "golden_apple": "2025-02-19 22:18:38 +0000",
       "bread": "2025-02-19 22:49:54 +0000",
       "enchanted_golden_apple": "2025-01-30 22:40:58 +0000",
@@ -1231,9 +1235,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-02-20 21:32:00 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/coal": {
     "criteria": {
       "has_coal": "2025-02-20 21:05:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-02-20 21:20:08 +0000"
     },
     "done": true
   },
@@ -1246,6 +1262,12 @@
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-02-20 20:35:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-20 21:32:46 +0000"
     },
     "done": true
   },
@@ -1282,6 +1304,12 @@
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-02-20 21:05:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-02-20 21:20:08 +0000"
     },
     "done": true
   },
@@ -1333,9 +1361,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-02-20 21:20:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-02-20 21:31:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-02-20 20:25:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-02-20 21:17:06 +0000"
     },
     "done": true
   },
@@ -1345,15 +1391,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-02-20 21:29:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-02-20 21:32:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-02-20 21:18:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-20 21:32:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-02-20 20:25:04 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-02-20 21:24:30 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/gold": {
     "criteria": {
       "has_gold_ingot": "2025-02-20 20:25:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-02-20 21:31:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-02-20 21:32:00 +0000"
     },
     "done": true
   },
@@ -1369,6 +1457,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-02-20 21:32:46 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2025-02-20 20:38:07 +0000"
@@ -1378,6 +1472,12 @@
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2025-02-20 20:38:36 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-02-20 21:20:08 +0000"
     },
     "done": true
   },
@@ -1411,6 +1511,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-20 21:34:10 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
+    "criteria": {
+      "has_black_wool": "2025-02-20 21:31:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-02-20 21:31:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-02-20 21:18:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-02-20 21:17:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-20 21:05:55 +0000"
@@ -1435,6 +1565,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-20 21:34:10 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/sheep": {
     "criteria": {
       "has_white_wool": "2025-02-20 20:25:04 +0000"
@@ -1447,9 +1583,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-02-20 21:20:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-20 21:05:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-02-20 21:17:06 +0000"
     },
     "done": true
   },
@@ -1459,9 +1607,27 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/gray_sleeping_bag": {
+    "criteria": {
+      "has_gray_wool": "2025-02-20 21:32:00 +0000"
+    },
+    "done": true
+  },
+  "the_knocker:cant_sleep": {
+    "criteria": {
+      "cant_sleep_0": "2025-02-20 21:28:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-02-20 20:25:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-20 21:34:10 +0000"
     },
     "done": true
   },
@@ -1495,6 +1661,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-02-20 21:32:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-02-20 21:18:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-20 21:05:55 +0000"
@@ -1513,9 +1691,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-20 21:34:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-02-20 20:25:04 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-20 21:32:46 +0000"
     },
     "done": true
   },
@@ -1540,6 +1730,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-20 21:05:55 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-02-20 21:18:16 +0000"
     },
     "done": true
   },
