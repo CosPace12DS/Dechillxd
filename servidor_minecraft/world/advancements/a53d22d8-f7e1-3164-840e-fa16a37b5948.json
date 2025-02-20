@@ -1263,6 +1263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-02-20 20:41:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-02-20 20:25:04 +0000"
@@ -1353,6 +1359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-02-20 20:41:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-02-20 20:25:04 +0000"
@@ -1392,6 +1404,12 @@
   "travelersbackpack:recipes/misc/lapis": {
     "criteria": {
       "has_lapis_lazuli": "2025-02-20 20:35:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-02-20 20:41:51 +0000"
     },
     "done": true
   },
