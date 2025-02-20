@@ -145,6 +145,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-02-20 20:57:38 +0000",
+      "baked_potato": "2025-02-20 20:57:35 +0000",
       "golden_apple": "2025-02-19 22:18:38 +0000",
       "bread": "2025-02-19 22:49:54 +0000",
       "enchanted_golden_apple": "2025-01-30 22:40:58 +0000",
@@ -442,6 +444,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-02-20 20:52:56 +0000",
       "minecraft:enderman": "2025-02-19 22:20:05 +0000",
       "minecraft:zombie": "2025-02-19 22:25:09 +0000"
     },
@@ -1308,6 +1311,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-02-20 20:25:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-02-20 20:59:04 +0000"
     },
     "done": true
   },
