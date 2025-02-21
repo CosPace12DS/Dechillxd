@@ -456,6 +456,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-02-20 21:04:22 +0000",
       "minecraft:spider": "2025-02-20 20:52:56 +0000",
+      "minecraft:creeper": "2025-02-21 22:47:10 +0000",
       "minecraft:enderman": "2025-02-19 22:20:05 +0000",
       "minecraft:zombie": "2025-02-19 22:25:09 +0000"
     },
@@ -2405,12 +2406,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-02-21 22:43:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2025-02-21 22:37:50 +0000"
@@ -2432,6 +2427,12 @@
   "minecraft:recipes/transportation/hopper_minecart": {
     "criteria": {
       "has_minecart": "2025-02-21 22:37:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-02-21 22:43:25 +0000"
     },
     "done": true
   },
