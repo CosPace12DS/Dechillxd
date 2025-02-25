@@ -933,9 +933,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/coal": {
+  "the_knocker:cant_sleep": {
     "criteria": {
-      "has_coal": "2025-02-25 22:59:52 +0000"
+      "cant_sleep_0": "2025-02-25 22:30:52 +0000"
     },
     "done": true
   },
@@ -975,12 +975,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/coal_block": {
-    "criteria": {
-      "has_coal": "2025-02-25 22:59:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-02-25 22:47:07 +0000"
@@ -999,9 +993,27 @@
     },
     "done": true
   },
-  "the_knocker:cant_sleep": {
+  "travelersbackpack:recipes/misc/coal": {
     "criteria": {
-      "cant_sleep_0": "2025-02-25 22:30:52 +0000"
+      "has_coal": "2025-02-25 22:59:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-02-25 22:59:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-02-25 23:08:06 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-02-25 23:09:35 +0000"
     },
     "done": true
   },
