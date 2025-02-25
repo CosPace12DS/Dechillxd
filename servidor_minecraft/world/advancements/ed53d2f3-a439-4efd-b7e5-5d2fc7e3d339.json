@@ -7,6 +7,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:river": "2025-02-25 20:50:12 +0000",
+      "minecraft:forest": "2025-02-25 20:50:49 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-25 20:22:53 +0000",
       "minecraft:meadow": "2025-02-25 20:24:15 +0000",
       "minecraft:plains": "2025-02-25 20:23:05 +0000"
@@ -313,6 +315,12 @@
     },
     "done": true
   },
+  "apollyon:condemned_to_die": {
+    "criteria": {
+      "condemned_to_die": "2025-02-25 20:52:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-25 20:33:39 +0000"
@@ -523,6 +531,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-02-25 20:52:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-02-25 20:33:39 +0000"
@@ -532,6 +546,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-02-25 20:36:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-02-25 20:52:58 +0000"
     },
     "done": true
   },
