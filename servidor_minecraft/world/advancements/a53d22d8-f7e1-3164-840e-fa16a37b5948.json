@@ -2448,6 +2448,12 @@
     },
     "done": true
   },
+  "ashes1ashes:nadvance": {
+    "criteria": {
+      "nadvance": "2025-02-25 17:51:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_carved_pumpkin": "2025-02-25 17:39:42 +0000"
